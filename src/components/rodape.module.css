@@ -1,0 +1,12 @@
+.rodape{
+    background-color:#81d8d0;
+    color: black;
+    display: block;
+    text-align: center;
+    margin-left: 20px;
+    margin-top:40px ;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 12px;
+  margin: 0;
+}
+

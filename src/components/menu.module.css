@@ -1,0 +1,25 @@
+
+.Logo{
+    float: left;
+    margin: 20px 35px;
+    margin-bottom: 15px;
+}
+.Submenu{
+    background-color: #ffffff;
+    height: 70px;
+    width: 100%;
+
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.Submenu li{
+    display: inline-block;
+    margin: 10px 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.Submenu li a {
+    color: black;
+}
+

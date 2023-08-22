@@ -1,0 +1,11 @@
+.divicon{
+    width: 10%;
+    text-align: center;
+    margin-top: 15px;
+}
+.divimg{
+    width: 80%;
+}
+.header{
+    display: flex;
+}
